@@ -1,0 +1,25 @@
+[debug] [2019-11-18T20:44:33.162Z] ----------------------------------------------------------------------
+[debug] [2019-11-18T20:44:33.166Z] Command:       /home/vanessa/.nvm/versions/node/v10.16.3/bin/node /home/vanessa/.nvm/versions/node/v10.16.3/bin/firebase serve
+[debug] [2019-11-18T20:44:33.166Z] CLI Version:   7.4.0
+[debug] [2019-11-18T20:44:33.166Z] Platform:      linux
+[debug] [2019-11-18T20:44:33.166Z] Node Version:  v10.16.3
+[debug] [2019-11-18T20:44:33.228Z] Time:          Mon Nov 18 2019 18:44:33 GMT-0200 (GMT-02:00)
+[debug] [2019-11-18T20:44:33.228Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-11-18T20:44:33.314Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-11-18T20:44:33.315Z] > authorizing via signed-in user
+[debug] [2019-11-18T20:44:33.315Z] [iam] checking project squad-sports for permissions ["firebase.projects.get"]
+[debug] [2019-11-18T20:44:33.318Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/squad-sports:testIamPermissions  
+
+[debug] [2019-11-18T20:44:34.534Z] <<< HTTP RESPONSE 200
+[debug] [2019-11-18T20:44:34.538Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/squad-sports  
+ 
+[debug] [2019-11-18T20:44:35.926Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/vanessa/squad-sport'...
+[info] 
+[debug] [2019-11-18T20:44:35.946Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/squad-sports/webApps/-/config  
+ 
+[debug] [2019-11-18T20:44:37.390Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: src
+[info] ✔  hosting: Local server: http://localhost:5000

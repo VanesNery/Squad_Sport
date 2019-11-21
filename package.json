@@ -1,0 +1,22 @@
+{
+  "name": "squad-sport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thamiresoliveiragomes/squad-sport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thamiresoliveiragomes/squad-sport/issues"
+  },
+  "homepage": "https://github.com/thamiresoliveiragomes/squad-sport#readme",
+  "description": "## Índice",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  }
+}
