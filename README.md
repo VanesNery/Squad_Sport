@@ -8,6 +8,7 @@
 * [4. Protótipos](#4-prototipos)
 * [5. Próximas versões](5-proximas-versoes)
 * [5. Ferramentas utilizadas](6-ferramentas-utilizadas)
+* [6. Pessoas envolvidas no projeto](7-pessoas-envolvidas)
 
 ***
 
@@ -115,3 +116,11 @@ Para desenvolver a aplicação, utilizamos as seguintes ferramentas:
 * Trello
 
 ***
+## 7. Pessoas Envolvidas
+***
+
+* Thamires Oliveira Gomes (https://github.com/thamiresoliveiragomes)
+* Tayara Caires (https://github.com/tayaracaires)
+* Andreza Amorim (https://github.com/AndrezaAmorim)
+* Fabiana Soares (https://github.com/Fabiana-Soares)
+* Catarina Barbosa (https://github.com/catbarbosa)
