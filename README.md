@@ -124,3 +124,4 @@ Para desenvolver a aplicação, utilizamos as seguintes ferramentas:
 * Andreza Amorim (https://github.com/AndrezaAmorim)
 * Fabiana Soares (https://github.com/Fabiana-Soares)
 * Catarina Barbosa (https://github.com/catbarbosa)
+* Vanessa Nery (https://github.com/VanesNery)
